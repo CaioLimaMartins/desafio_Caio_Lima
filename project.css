@@ -7,7 +7,7 @@ body {
 
 .intro{
     background-image:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.6)),
-    url(../Git-GTI-CaioLimaMartins/images/fundob1.jpg);
+    url(firmbee-com-gcsNOsPEXfs-unsplash.jpg);
     background-size: cover;
     height: 55vh;
     display: flex;
@@ -257,7 +257,7 @@ form button {
 }
 #contact{
     background-image:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.6)),
-    url(../Git-GTI-CaioLimaMartins/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg);
+    url(marvin-meyer-SYTO3xs06fU-unsplash.jpg);
     background-size: cover;
     height: 55vh;
     display: flex;
